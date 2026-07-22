@@ -56,7 +56,7 @@ The result is a lightweight, responsive clone that closely resembles YouTube's d
 # 📸 Preview
 
 <p align="center">
-  <img src="YouTube-HomePage-Clone%20SS.png" alt="YouTube Homepage Clone Preview" width="100%">
+  <img src="HTML%20%26%20CSS/YouTube-Homepage-Clone%20SS.png" alt="YouTube Homepage Clone Preview" width="100%">
 </p>
 ---
 
