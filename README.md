@@ -76,4 +76,4 @@ It is inspired by YouTube's interface and is not affiliated with or endorsed by 
 
 ---
 
-Made with ❤️ by **Aariz**
+Made by **Aariz**
