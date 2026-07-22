@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎬 YouTube Homepage Clone
+# YouTube Homepage Clone
 
 ### A modern recreation of YouTube's desktop homepage built with **HTML5** & **CSS3**
 
