@@ -1,93 +1,184 @@
 <div align="center">
 
-# 🎥 YouTube Homepage Clone
+# 🎬 YouTube Homepage Clone
 
-A pixel-perfect recreation of the YouTube homepage built with **HTML5** and **CSS3**.
+### A modern recreation of YouTube's desktop homepage built with **HTML5** & **CSS3**
 
-Designed to practise modern front-end development, responsive layouts, semantic HTML, and advanced CSS techniques including **Grid** and **Flexbox**.
+Recreating a real-world interface to develop a deeper understanding of responsive web design, semantic HTML, modern CSS architecture, and production-style layouts.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive-✔-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge" />
+</p>
+
+**Designed with clean code, modular CSS, and pixel-perfect attention to detail.**
 
 </div>
 
 ---
 
-## 📖 Overview
+# 📑 Table of Contents
 
-This project recreates the desktop version of YouTube's homepage with a strong emphasis on clean code, responsive design, and reusable components.
-
-The interface closely mirrors YouTube's layout, including its navigation bar, sidebar, video cards, thumbnails, channel information, and responsive grid system.
-
-The goal of this project was to strengthen my understanding of front-end fundamentals by recreating a real-world application from scratch.
-
----
-
-## ✨ Features
-
-- 📱 Responsive layout
-- 🎥 YouTube-inspired interface
-- 📂 Sidebar navigation
-- 🔍 Search bar
-- 📺 Responsive video grid
-- 👤 Channel profile images
-- ⏱️ Video duration overlays
-- 📌 Fixed navigation header
-- 🧩 Modular CSS architecture
-- ♿ Semantic HTML structure
+- [Overview](#-overview)
+- [Preview](#-preview)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Design Highlights](#-design-highlights)
+- [What I Learned](#-what-i-learned)
+- [Getting Started](#-getting-started)
+- [Future Improvements](#-future-improvements)
+- [License](#-license)
 
 ---
 
-## 🛠 Tech Stack
+# 📖 Overview
 
-| Technology | Purpose |
-|------------|---------|
-| HTML5 | Semantic page structure |
-| CSS3 | Styling |
-| CSS Grid | Responsive video layout |
-| Flexbox | Component alignment |
-| Responsive Design | Desktop-friendly layouts |
+This project is a front-end recreation of **YouTube's desktop homepage**, built entirely with **HTML** and **CSS**.
+
+Rather than focusing solely on appearance, the goal was to reproduce the layout using modern development practices while keeping the codebase clean, organised, and maintainable.
+
+Throughout the project I focused on:
+
+- Writing semantic HTML
+- Building reusable layouts
+- Using CSS Grid and Flexbox together
+- Structuring CSS into multiple files
+- Creating a responsive interface
+- Matching the spacing and proportions of the original website
+
+The result is a lightweight, responsive clone that closely resembles YouTube's desktop experience while serving as a strong foundation for future JavaScript functionality.
 
 ---
 
-## 📂 Project Structure
+# 📸 Preview
+
+> Replace this image after uploading your screenshot.
+
+<p align="center">
+
+<img src="images/preview.png" width="100%" alt="Project Preview">
+
+</p>
+
+---
+
+# ✨ Features
+
+## Layout
+
+- Responsive desktop layout
+- CSS Grid video gallery
+- Flexbox navigation system
+- Sticky top navigation bar
+- Fixed sidebar
+
+## Components
+
+- Search bar
+- Voice search button
+- Upload icon
+- Notifications
+- Profile avatar
+- Responsive video cards
+- Channel avatars
+- Video metadata
+- Duration badges
+
+## Code Quality
+
+- Semantic HTML5
+- Modular CSS architecture
+- Reusable styling
+- Organised folder structure
+- Consistent spacing system
+- Readable code
+
+---
+
+# 🛠 Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| HTML5 | Semantic document structure |
+| CSS3 | Styling and layouts |
+| CSS Grid | Responsive video gallery |
+| Flexbox | Navigation & alignment |
+| Positioning | Fixed header & sidebar |
+| Media Queries | Responsive behaviour |
+
+---
+
+# 📂 Project Structure
 
 ```text
-youtube-homepage-clone/
+youtube-homepage-clone
 │
 ├── index.html
 │
-├── styles/
+├── styles
 │   ├── general.css
 │   ├── header.css
 │   ├── sidebar.css
 │   └── video.css
 │
-├── icons/
-├── thumbnails/
-├── channel-pictures/
+├── icons
+│
+├── thumbnails
+│
+├── channel-pictures
 │
 └── README.md
 ```
 
 ---
 
-## 🎯 What I Learned
+# 🎨 Design Highlights
 
-Building this project helped reinforce several core front-end development concepts, including:
-
-- Writing semantic and accessible HTML
-- Structuring larger HTML projects
-- Creating responsive layouts using CSS Grid
-- Using Flexbox for alignment and spacing
-- Organising CSS into reusable modules
-- Working with positioning and overlays
-- Replicating real-world UI designs
-- Improving attention to visual detail
+- Pixel-inspired recreation of YouTube's desktop UI
+- Clean typography hierarchy
+- Consistent spacing throughout
+- Responsive Grid layout
+- Fixed navigation experience
+- Modular component styling
+- Balanced visual proportions
+- Minimal and maintainable codebase
 
 ---
 
-## 🚀 Getting Started
+# 🧠 What I Learned
+
+Building this project significantly improved my understanding of front-end development.
+
+### HTML
+
+- Semantic page structure
+- Accessibility fundamentals
+- Organising larger HTML files
+
+### CSS
+
+- Grid layouts
+- Flexbox alignment
+- Positioning
+- Responsive design
+- CSS architecture
+- Modular stylesheets
+- Component styling
+
+### UI Development
+
+- Reverse engineering existing websites
+- Building reusable layouts
+- Matching production interfaces
+- Improving attention to detail
+- Creating scalable file structures
+
+---
+
+# 🚀 Getting Started
 
 Clone the repository
 
@@ -104,63 +195,43 @@ cd youtube-homepage-clone
 Open the project
 
 ```text
-Open index.html in your browser
+Open index.html in your preferred browser.
 ```
 
 ---
 
-## 📸 Preview
+# 📈 Future Improvements
 
-> Add a screenshot here after uploading one.
-
-```text
-images/preview.png
-```
-
----
-
-## 🎓 Learning Objectives
-
-This project was built to practise:
-
-- HTML5
-- CSS3
-- CSS Grid
-- Flexbox
-- Responsive Web Design
-- UI Recreation
-- Clean File Organisation
-- Front-End Fundamentals
-
----
-
-## 💡 Future Improvements
-
-- Dark Mode
-- Mobile-first layout
-- Interactive search bar
-- Video hover animations
 - JavaScript functionality
-- Dynamic content rendering
+- Working search bar
+- Responsive mobile navigation
+- Dark mode
+- Hover animations
+- Theme switching
 - API integration
-- Accessibility improvements
+- Dynamic video rendering
+- Accessibility enhancements
 
 ---
 
-## 📄 License
+# 📄 License
 
-This repository is intended for **educational purposes only**.
+This project is provided for **educational and portfolio purposes only**.
 
-This project is an independent recreation of YouTube's interface and is **not affiliated with, endorsed by, or associated with YouTube or Google.**
+It is an independent recreation of YouTube's user interface and is **not affiliated with, endorsed by, or associated with YouTube or Google**.
 
 ---
 
 <div align="center">
 
-### 👨‍💻 Created by Aariz
+## 👨‍💻 Developer
 
-*"Learning by building real-world interfaces."*
+### **Aariz**
 
-⭐ If you enjoyed this project, consider giving it a star!
+Front-End Developer • Learning through real-world projects
+
+---
+
+**If you found this project interesting, consider leaving a ⭐ on the repository!**
 
 </div>
