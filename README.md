@@ -1,70 +1,166 @@
-# YouTube Homepage Clone
+<div align="center">
 
-A responsive clone of the YouTube homepage built using **HTML5** and **CSS3**. This project recreates the layout and design of YouTube's homepage while demonstrating modern front-end development techniques, including **CSS Grid**, **Flexbox**, and responsive web design.
+# 🎥 YouTube Homepage Clone
+
+A pixel-perfect recreation of the YouTube homepage built with **HTML5** and **CSS3**.
+
+Designed to practise modern front-end development, responsive layouts, semantic HTML, and advanced CSS techniques including **Grid** and **Flexbox**.
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+---
+
+## 📖 Overview
+
+This project recreates the desktop version of YouTube's homepage with a strong emphasis on clean code, responsive design, and reusable components.
+
+The interface closely mirrors YouTube's layout, including its navigation bar, sidebar, video cards, thumbnails, channel information, and responsive grid system.
+
+The goal of this project was to strengthen my understanding of front-end fundamentals by recreating a real-world application from scratch.
+
+---
 
 ## ✨ Features
 
-- Responsive YouTube-inspired homepage
-- Fixed navigation header
-- Sidebar navigation
-- Responsive video grid layout
-- Video thumbnails with channel information
-- Clean, semantic HTML structure
-- Modern CSS using Grid and Flexbox
+- 📱 Responsive layout
+- 🎥 YouTube-inspired interface
+- 📂 Sidebar navigation
+- 🔍 Search bar
+- 📺 Responsive video grid
+- 👤 Channel profile images
+- ⏱️ Video duration overlays
+- 📌 Fixed navigation header
+- 🧩 Modular CSS architecture
+- ♿ Semantic HTML structure
 
-## 🛠️ Built With
+---
 
-- HTML5
-- CSS3
-- CSS Grid
-- CSS Flexbox
+## 🛠 Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Semantic page structure |
+| CSS3 | Styling |
+| CSS Grid | Responsive video layout |
+| Flexbox | Component alignment |
+| Responsive Design | Desktop-friendly layouts |
+
+---
 
 ## 📂 Project Structure
 
-```
+```text
 youtube-homepage-clone/
 │
 ├── index.html
+│
 ├── styles/
 │   ├── general.css
 │   ├── header.css
 │   ├── sidebar.css
 │   └── video.css
+│
 ├── icons/
 ├── thumbnails/
 ├── channel-pictures/
+│
 └── README.md
 ```
 
+---
+
 ## 🎯 What I Learned
 
-Through this project I practised:
+Building this project helped reinforce several core front-end development concepts, including:
 
-- Writing semantic HTML
-- Creating responsive layouts
-- Using CSS Grid and Flexbox together
-- Positioning elements with CSS
-- Organising CSS into multiple files
-- Building pixel-accurate UI designs from reference websites
+- Writing semantic and accessible HTML
+- Structuring larger HTML projects
+- Creating responsive layouts using CSS Grid
+- Using Flexbox for alignment and spacing
+- Organising CSS into reusable modules
+- Working with positioning and overlays
+- Replicating real-world UI designs
+- Improving attention to visual detail
+
+---
 
 ## 🚀 Getting Started
 
-1. Clone the repository
+Clone the repository
 
 ```bash
 git clone https://github.com/maybeaariz/youtube-homepage-clone.git
 ```
 
-2. Open the project folder.
+Navigate into the project
 
-3. Open `index.html` in your browser.
+```bash
+cd youtube-homepage-clone
+```
 
-## 📄 License
+Open the project
 
-This project is for educational purposes only.
-
-It is inspired by YouTube's interface and is not affiliated with or endorsed by YouTube or Google.
+```text
+Open index.html in your browser
+```
 
 ---
 
-Made by **Aariz**
+## 📸 Preview
+
+> Add a screenshot here after uploading one.
+
+```text
+images/preview.png
+```
+
+---
+
+## 🎓 Learning Objectives
+
+This project was built to practise:
+
+- HTML5
+- CSS3
+- CSS Grid
+- Flexbox
+- Responsive Web Design
+- UI Recreation
+- Clean File Organisation
+- Front-End Fundamentals
+
+---
+
+## 💡 Future Improvements
+
+- Dark Mode
+- Mobile-first layout
+- Interactive search bar
+- Video hover animations
+- JavaScript functionality
+- Dynamic content rendering
+- API integration
+- Accessibility improvements
+
+---
+
+## 📄 License
+
+This repository is intended for **educational purposes only**.
+
+This project is an independent recreation of YouTube's interface and is **not affiliated with, endorsed by, or associated with YouTube or Google.**
+
+---
+
+<div align="center">
+
+### 👨‍💻 Created by Aariz
+
+*"Learning by building real-world interfaces."*
+
+⭐ If you enjoyed this project, consider giving it a star!
+
+</div>
