@@ -59,15 +59,6 @@ git clone https://github.com/maybeaariz/youtube-homepage-clone.git
 
 3. Open `index.html` in your browser.
 
-## 📚 Future Improvements
-
-- Add JavaScript functionality
-- Dark mode support
-- Search functionality
-- Mobile navigation menu
-- Hover animations
-- Responsive improvements for smaller devices
-
 ## 📄 License
 
 This project is for educational purposes only.
