@@ -58,11 +58,8 @@ The result is a lightweight, responsive clone that closely resembles YouTube's d
 > Replace this image after uploading your screenshot.
 
 <p align="center">
-
-<img src="images/preview.png" width="100%" alt="Project Preview">
-
+  <img src="ScreenShots/YouTube-HomePage-Clone%20SS.png" alt="YouTube Homepage Clone Preview" width="100%">
 </p>
-
 ---
 
 # ✨ Features
