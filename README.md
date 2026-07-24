@@ -9,7 +9,7 @@ Recreating a real-world interface to develop a deeper understanding of responsiv
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  >
+  
 </p>
 
 **Designed with clean code, modular CSS, and pixel-perfect attention to detail.**
