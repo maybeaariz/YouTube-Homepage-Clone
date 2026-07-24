@@ -2,7 +2,7 @@
 
 # YouTube Homepage Clone
 
-### A modern recreation of YouTube's desktop homepage built with **HTML5** & **CSS3**
+### A recreation of YouTube's desktop homepage built with **HTML5** & **CSS3**
 
 Recreating a real-world interface to develop a deeper understanding of responsive web design, semantic HTML, modern CSS architecture, and production-style layouts.
 
